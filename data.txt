@@ -1,0 +1,8 @@
+Nombre:x	Apellido:x	Edad:x	Alimento:x	cantidad De Alimento:	Sisben:A
+
+Nombre:Thomas	Apellido:MOLINA	Edad:18	Alimento:FRIJOLES	cantidad De Alimento:20	Sisben:A
+Nombre:	Apellido:	Edad:	Alimento:frijoles	cantidad De Alimento:10	Sisben:B
+Nombre:THOMAS	Apellido:MOLINA	Edad:18	Alimento:GARBANZOS	cantidad De Alimento:20	Sisben:A
+Nombre:x	Apellido:x	Edad:x	Alimento:x	cantidad De Alimento:x	Sisben:B
+Nombre:x	Apellido:x	Edad:x	Alimento:x	cantidad De Alimento:x	Sisben:
+Nombre:ALEJANDRO	Apellido:ROCIO	Edad:12	Alimento:FRJOLES	cantidad De Alimento:6	Sisben:A
